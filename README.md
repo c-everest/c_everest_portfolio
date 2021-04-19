@@ -1,11 +1,3 @@
-### Electric Vehicle Registration Patterns & Barriers to Ownership
-
-- Used Rvest to webscrape historical vehicle prices from Autotrader.com. Queried APIs from US Census and US Department of Energy. 
-- Built  dashboard exploring electric vehicle registrations from 2015-2020, price & infrastructure trends and the relationship between EV market penetration and income.
-
-![](/images/ev_reg_2015.png)
-![](/images/ev_reg_2020.png)
-![](/images/market_share_fuel_type_2015-2020.png)
 
 ### [Opioid Prescription Patterns & Overdose Deaths in TN](https://datastudio.google.com/reporting/a126db6c-93df-481a-9356-f1e631486c1e/page/7bG2B)
 
@@ -22,6 +14,14 @@
 
 ![](/images/vandy_specialty_opps.png)
 
+### Electric Vehicle Registration Patterns & Barriers to Ownership
+
+- Used Rvest to webscrape historical vehicle prices from Autotrader.com. Queried APIs from US Census and US Department of Energy. 
+- Built  dashboard exploring electric vehicle registrations from 2015-2020, price & infrastructure trends and the relationship between EV market penetration and income.
+
+![](/images/ev_reg_2015.png)
+![](/images/ev_reg_2020.png)
+![](/images/market_share_fuel_type_2015-2020.png)
 
 ### TN Earthquake Impact Model for Emergency Resource Allocation   
 
