@@ -7,7 +7,7 @@
 ![](/images/ev_reg_2020.png)
 ![](/images/market_share_fuel_type_2015-2020.png)
 
-### [Opioid Prescription Patterns & Overdose Deaths in TN] (https://datastudio.google.com/reporting/a126db6c-93df-481a-9356-f1e631486c1e/page/7bG2B)
+### [Opioid Prescription Patterns & Overdose Deaths in TN](https://datastudio.google.com/reporting/a126db6c-93df-481a-9356-f1e631486c1e/page/7bG2B)
 
 - Used Medicare, Census and CDC data to quantify relationship between opioid prescription claims and overdose deaths in TN.
 - Looked beyond legal opioid prescription claims, uncovering a 49% increase in claims for medically assisted opioid use disorder treatment and co-prescription patterns indicating risky provider behavior.
@@ -16,7 +16,7 @@
 ![](/images/opioid_rx_decline.png)
 ![](/images/oud_treatment_claims.png)
 
-### Harnessing Provider Communities for Hospital Revenue Growth   
+### [Harnessing Provider Communities for Hospital Revenue Growth](https://sites.google.com/view/nashvilleprovidersds4/vanderbilt-growth)   
 
 - Analyzed inpatient referral patterns to identify opportunities for Vanderbilt University Medical Center to increase revenue by targeting provider specialties associated with common chronic conditions in Medicare patients.
 
