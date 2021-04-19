@@ -7,7 +7,7 @@
 ![](/images/ev_reg_2020.png)
 ![](/images/market_share_fuel_type_2015-2020.png)
 
-### Opioid Prescription Patterns & Overdose Deaths in TN
+### [Opioid Prescription Patterns & Overdose Deaths in TN] (https://datastudio.google.com/reporting/a126db6c-93df-481a-9356-f1e631486c1e/page/7bG2B)
 
 - Used Medicare, Census and CDC data to quantify relationship between opioid prescription claims and overdose deaths in TN.
 - Looked beyond legal opioid prescription claims, uncovering a 49% increase in claims for medically assisted opioid use disorder treatment and co-prescription patterns indicating risky provider behavior.
@@ -20,9 +20,11 @@
 
 - Analyzed inpatient referral patterns to identify opportunities for Vanderbilt University Medical Center to increase revenue by targeting provider specialties associated with common chronic conditions in Medicare patients.
 
-- ![](/images/vandy_specialty_opps.png)
+![](/images/vandy_specialty_opps.png)
 
 
 ### TN Earthquake Impact Model for Emergency Resource Allocation   
 
 - Analyzed historical earthquake records, transportation infrastructure networks and injection wells (fracking) to evaluate potential earthquake impact and prioritize response.
+
+![](/images/earthquakes.png)
