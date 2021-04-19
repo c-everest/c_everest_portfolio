@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### [Electric Vehicle Registration Patterns & Barriers to Ownership]
 
-You can use the [editor on GitHub](https://github.com/c-everest/c_everest_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- Used Rvest to webscrape historical vehicle prices from Autotrader.com. Queried APIs from US Census and US Department of Energy. 
+- Built  dashboard exploring electric vehicle registrations from 2015-2020, price & infrastructure trends and the relationship between EV market penetration and income.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](/images/your_image.png)
 
-### Markdown
+### [Opioid Prescription Patterns & Overdose Deaths in TN]   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Used Medicare, Census and CDC data to quantify relationship between opioid prescription claims and overdose deaths in TN.
+- Looked beyond legal opioid prescription claims, uncovering a 49% increase in claims for medically assisted opioid use disorder treatment and co-prescription patterns indicating risky provider behavior.
 
-```markdown
-Syntax highlighted code block
+### [Harnessing Provider Communities for Hospital Revenue Growth]   
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- Analyzed inpatient referral patterns to identify opportunities for Vanderbilt University Medical Center to increase revenue by targeting provider specialties associated with common chronic conditions in Medicare patients.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### [TN Earthquake Impact Model for Emergency Resource Allocation]    
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c-everest/c_everest_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Analyzed historical earthquake records, transportation infrastructure networks and injection wells (fracking) to evaluate potential earthquake impact and prioritize response.
