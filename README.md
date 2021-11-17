@@ -1,3 +1,6 @@
+### [Predicting Winning Bids at Classic & Enthusiast Car Auctions](https://github.com/c-everest/auctions)
+
+
 
 ### [Opioid Prescription Patterns & Overdose Deaths in TN](https://datastudio.google.com/reporting/a126db6c-93df-481a-9356-f1e631486c1e/page/7bG2B)
 
@@ -8,7 +11,7 @@
 ![](/images/opioid_rx_decline.png)
 ![](/images/oud_treatment_claims.png)
 
-### [Harnessing Provider Communities for Hospital Revenue Growth](https://sites.google.com/view/nashvilleprovidersds4/vanderbilt-growth)   
+### [Harnessing Provider Communities for Hospital Revenue Growth](https://github.com/c-everest/healthcare_provider_communties)   
 
 - Analyzed inpatient referral patterns to identify opportunities for Vanderbilt University Medical Center to increase revenue by targeting provider specialties associated with common chronic conditions in Medicare patients.
 
